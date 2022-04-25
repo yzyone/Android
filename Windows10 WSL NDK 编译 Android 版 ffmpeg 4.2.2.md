@@ -112,6 +112,7 @@ $ADDITIONAL_CONFIGURE_FLAG
 
 make
 make install
+```
 
 **Tips：**
 
